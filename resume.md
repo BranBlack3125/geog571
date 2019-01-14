@@ -7,9 +7,8 @@
 
 Bran.Black3125@gmail.com
 <p align="center">
-  <img width="460" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2vp1nDCWGXtgEk6n6zwJmK2eAd_5GZPdzGaU_foN5cHlXUV4bkg">
+  <img width="250" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2vp1nDCWGXtgEk6n6zwJmK2eAd_5GZPdzGaU_foN5cHlXUV4bkg">
 </p>
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2vp1nDCWGXtgEk6n6zwJmK2eAd_5GZPdzGaU_foN5cHlXUV4bkg)
 
 # Work Experience
 
