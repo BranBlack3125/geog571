@@ -64,5 +64,6 @@ Role Summary:
 
 - Whatever needed doing...
 
-
-![](https://i.pinimg.com/236x/83/b8/d0/83b8d0c737aca0aecabe0df1d93ee257--fibonacci-spiral-in-nature-art-nature.jpg)
+<p align="center">
+  <img width="250" height="200" src="https://i.pinimg.com/236x/83/b8/d0/83b8d0c737aca0aecabe0df1d93ee257--fibonacci-spiral-in-nature-art-nature.jpg">
+</p>
