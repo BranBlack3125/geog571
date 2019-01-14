@@ -11,13 +11,9 @@
 Bran.Black3125@gmail.com
 
 
-# Summary
-
-I qualify for this position because... hmmmm, I'm not really sure what the job is, so it's anyone's guess really.
-
 # Work Experience
 
-My recent work experienced has occured primarily Oregon State Univerity's (OSU, http://oregonstate.edu/) College of Earth, Ocean, and Atmospheric Sciences (CEOAS, http://ceoas.oregonstate.edu/about/)
+My most recent work experienced has occured primarily at Oregon State Univerity's (OSU, http://oregonstate.edu/) College of Earth, Ocean, and Atmospheric Sciences (CEOAS, http://ceoas.oregonstate.edu/about/)
 
 >_"At the College of Earth, Ocean, and Atmospheric Sciences, the landscape is our laboratory. Our explorations extend from local to global, from the core of the Earth through the seas and all the way to Mars, and from science to policy and practice."_
 
@@ -42,24 +38,31 @@ Role Summary:
 - Mo'orea NRT project member 2018 - 2019
 
 - 2018 TA duties: primarily GIS-related courses **(online and on campus)**
+
 - Initial work involving landcover classification and habitat suitability maps in the ***Falkland Islands and South Georgia Island*** :penguin:
 
 **Graduate Research Assistant (GRA) at OSU** (Sept, 2018 - Current)
 
 Role Summary:
+
 - Mapping and geospatial analysis for NRT Mo'orea project :globe_with_meridians:
 
 **Faculty Research Assistant (FRA) at OSU** (Apr, 2014 - Sept, 2017)
 
 Role Summary:
+
 - Assist with **field work** and related **mapping** projects
+
 - **Data analysis, management, and map production**
+
 - Chief gremlin wrangler (someone kept giving Gizmo water after midnight and then leaving the doors unlocked at night):waxing_crescent_moon:
+
 - General lab work
 
 **Graduate Teaching Assistant (GTA)** (Oct, 2008 - Apr, 2014)
 
 Role Summary:
+
 - Whatever needed doing...
 
 
